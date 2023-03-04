@@ -5,7 +5,7 @@
 
 -   🌱 I’m currently learning **Object Oriented Programming.**
 
--   👯 I've worked on **C , HTML5, CSS**
+-   👯 I've worked on **C , HTML5, CSS, C++**
 
 -   📫 How to reach me **shaheerbeig@gmail.com**
 
