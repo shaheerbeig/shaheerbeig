@@ -3,9 +3,9 @@
 
 ## 🙋‍♂️ About Me
 
--   🌱 I’m currently learning **Object Oriented Programming.**
+-   🌱 I’m currently learning **Data Structures.**
 
--   👯 I've worked on **C , HTML5, CSS, C++**
+-   👯 I've worked on **C , HTML5, CSS, C++*, Java Script*
 
 -   📫 How to reach me **shaheerbeig@gmail.com**
 
