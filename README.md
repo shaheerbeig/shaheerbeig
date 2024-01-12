@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shaheer Beig</h1>
 <h3 align="center">I'm doing bachelors in Computer Sciences from NUCES-FAST Karachi.</h3>
 
@@ -16,6 +17,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" target="_blank" height="60px" width="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" target="_blank" height="50px" width="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" target="_blank" height="60px" width="50px" margin-left:20px/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" target="_blank" height="60px" width="50px" margin-left:20px/>
 </p>
 <br/>
 
