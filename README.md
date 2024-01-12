@@ -13,7 +13,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-  <img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML5&psig=AOvVaw2E2lJX6V0Elf43l1pWhq4Y&ust=1705151882211000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMieruL314MDFQAAAAAdAAAAABAI)" target="_blank" height="50px" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" target="_blank" height="50px" width="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" target="_blank" height="50px" width="50px"/>
 </p>
 <br/>
