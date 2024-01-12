@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="https://github.com/shaheerbeig/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shaheer Beig's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheerbeig&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shaheer Beig's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheerbeig&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="200px" height="100px"/>
     </a>
 </p>
 
