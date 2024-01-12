@@ -13,6 +13,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png)" target="_blank" height="50px" width="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" target="_blank" height="50px" width="50px"/>
 </p>
 <br/>
