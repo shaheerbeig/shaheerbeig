@@ -18,7 +18,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" target="_blank" height="50px" width="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" target="_blank" height="60px" width="50px" margin-left:20px/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" target="_blank" height="50px" width="50px" />
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)" target="_blank" height="50px" width="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" target="_blank" height="60px" width="50px" margin-left:20px/>
 </p>
 <br/>
 
