@@ -6,7 +6,7 @@
 
 -   🌱 I’m currently learning **ReactJs.**
 
--   👯 I've worked on C , HTML5, CSS, C++, Java Script.
+-   👯 I've worked on C , HTML5, CSS, C++, Java Script,PHP.
 
 -   📫 How to reach me **shaheerbeig@gmail.com**
 
