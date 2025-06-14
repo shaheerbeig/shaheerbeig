@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">Aspiring Data Scientist | MERN Developer | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Shaheer Beig</h1>
+<h3 align="center">Aspiring Data Engineer | MERN Developer | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+building+projects;Always+learning+new+things!" alt="Typing SVG" />
@@ -11,11 +11,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 CS student at XYZ University  
-- 💡 Exploring data science, machine learning, and web development  
-- 🚀 Currently building: **Inventory Tracking System (MERN)**  
-- 📫 How to reach me: [your@email.com](mailto:your@email.com)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 🎓 CS student at FAST University  
+- 💡 Exploring data engineering, machine learning, Agentic AI 
+- 📫 How to reach me: [your@email.com](shaheerbeig@gmail.com)  
 
 ---
 
@@ -62,25 +60,16 @@
 ### 🏗️ Full Stack
 - [📦 Inventory Tracking System](https://github.com/yourusername/inventory-system): MERN-based app to track products across multiple stores.
 
-### 🕸️ Web Projects
-- [🔗 URL Shortener](https://github.com/yourusername/url-shortener): Simple Node.js-based URL shortening service using nanoid.
+### 🕸️ Agentic AI
+[🤖 AI Interview Coach](https://github.com/yourusername/agentic-ai) — A smart AI system capable of autonomous decision-making using multi-agent planning and coordination  
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourlinkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shaheer-beig/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shaheerbeig@gmail.com)
 
 ---
 
-## 💡 Fun Fact
-> I debug my code by **explaining it to my dog.** 🐶  
-> Works 90% of the time!
 
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact" alt="GitHub Activity Graph" />
-</p>
